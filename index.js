@@ -155,7 +155,7 @@ footer: `©ZIM BOT INC 2022`,
 buttons: buttons,
 headerType: 4,
 contextInfo: { externalAdReply:{
-title:"ZIM BOT V4",
+title:"ZeroTwo🍂 By Castlevnia🍁",
 body:"SUB DRIPS OFC",
 showAdAttribution: true,
 mediaType:2,
