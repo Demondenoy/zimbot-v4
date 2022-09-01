@@ -160,8 +160,8 @@ body:"SUB DRIPS OFC",
 showAdAttribution: true,
 mediaType:2,
 thumbnail:wangu,
-mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
-sourceUrl: `https://youtu.be/KNu-gr2h7bo`,
+mediaUrl:`https://youtu.be/op99i4JyBYM`, 
+sourceUrl: `https://youtu.be/op99i4JyBYM`,
 }}
 }
 const driphunny = fs.readFileSync('./Zimbot/welcome.mp3')
